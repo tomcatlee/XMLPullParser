@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\raw_tours.xml.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\raw\\tours.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exploreca.png.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\drawable-ldpi\\ic_exploreca.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exploreca.png.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\drawable-xhdpi\\ic_exploreca.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exploreca.png.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\drawable-hdpi\\ic_exploreca.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exploreca.png.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\drawable-mdpi\\ic_exploreca.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\XMLPullParser\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings.xml.flat",
+        "source": "D:\\Projects\\Android\\XMLPullParser\\app\\src\\main\\res\\xml\\settings.xml"
+    }
+]
